@@ -76,7 +76,7 @@ Before you get started, please make sure you have the following installed:
    cd AgentGPT
    ./setup.bat
    ```
-4. **Follow the setup instructions from the script** - add the appropriate API keys, and once all of the services are running, travel to [http://localhost:3000](http://localhost:3000) on your web-browser.
+4. **Follow the setup instructions from the script** - add the appropriate API keys, and once all of the services are running, travel to [https://startwise.sumira.online](https://startwise.sumira.online) on your web-browser.
 
 Happy hacking! :tada:
 

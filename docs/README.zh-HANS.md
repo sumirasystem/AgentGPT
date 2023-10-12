@@ -76,7 +76,7 @@ cli为AgentGPT设置了以下内容：
    cd AgentGPT
    ./setup.bat
    ```
-4. **按照脚本中的设置说明进行操作。** - 在添加适当的 API 密钥之后，确保所有服务都已经运行起来，然后在您的网页浏览器中访问 [http://localhost:3000](http://localhost:3000)。
+4. **按照脚本中的设置说明进行操作。** - 在添加适当的 API 密钥之后，确保所有服务都已经运行起来，然后在您的网页浏览器中访问 [https://startwise.sumira.online](https://startwise.sumira.online)。
 
 黑客快乐! 🎉
 
